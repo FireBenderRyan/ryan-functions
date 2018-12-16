@@ -2,3 +2,6 @@
 //**NOTE: The retuned value MUST be a string** 
 
 //your code here
+var returnTwoPlusThree = function(){
+	return '2 + 3'
+}
